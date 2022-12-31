@@ -1,3 +1,6 @@
 [submodule "vsf"]
 	path = vsf
 	url = ../vsf
+[submodule "application/3rd-party/openocd"]
+	path = application/3rd-party/openocd
+	url = ../openocd
